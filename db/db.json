@@ -2,11 +2,27 @@
   "users": [
     {
       "id": 1,
-      "name": "Taylor Huffman"
+      "name": "Taylor Huffman",
+      "following": [
+        "Michael T. McCaul",
+        "Hon. Virginia Foxx",
+        "Hon. Alan S. Lowenthal",
+        "Hon. Austin Scott"
+      ]
     },
     {
       "id": 2,
-      "name": "Buzz Lightyear"
+      "name": "Buzz Lightyear",
+      "following": [
+        "Michael T. McCaul"
+      ]
+    },
+    {
+      "name": "Mary Huffman",
+      "following": [
+        "Hon. Virginia Foxx"
+      ],
+      "id": 3
     }
   ]
 }
