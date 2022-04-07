@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "name": "Taylor Huffman",
+      "name": "Michael Jordan",
       "following": [
         "Michael T. McCaul",
         "Hon. Virginia Foxx",
@@ -16,13 +16,6 @@
       "following": [
         "Michael T. McCaul"
       ]
-    },
-    {
-      "name": "Mary Huffman",
-      "following": [
-        "Hon. Virginia Foxx"
-      ],
-      "id": 3
     }
   ]
 }
